@@ -1,5 +1,5 @@
-#ifndef POINT_H_INCLUDED
-#define POINT_H_INCLUDED
+#ifndef POINT_H
+#define POINT_H
 class point{
     private :
     float x,y;
